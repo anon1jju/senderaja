@@ -1,0 +1,22 @@
+{
+  "zh": {
+    "language": "Chinese (中文)",
+    "text": "在数字时代学习技术的重要性 在当今飞速发展的数字时代，技术已经渗透到我们生活的方方面面。从社交媒体到智能设备，从远程办公到在线教育，技术无处不在。学习技术不仅可以提升个人竞争力，还能为未来的职业发展提供更多机会。尤其是编程、数据分析和人工智能等领域，正成为全球关注的焦点。掌握这些技能，是走在时代前沿的重要保障。"
+  },
+  "hi": {
+    "language": "Hindi (हिन्दी)",
+    "text": "डिजिटल युग में तकनीक सीखने का महत्व आज के डिजिटल युग में तकनीक हमारे जीवन का अभिन्न हिस्सा बन चुकी है। चाहे वह स्मार्टफोन हो, इंटरनेट हो, या ऑनलाइन सेवाएं – सब कुछ तकनीक पर आधारित है। तकनीकी ज्ञान रखने से न केवल रोजगार के बेहतर अवसर मिलते हैं, बल्कि यह भविष्य के लिए भी आवश्यक है। प्रोग्रामिंग, डेटा साइंस और आर्टिफिशियल इंटेलिजेंस जैसे क्षेत्रों में कौशल विकसित करना आज की सबसे बड़ी जरूरत है।"
+  },
+  "ar": {
+    "language": "Arabic (العربية)",
+    "text": "أهمية تعلم التكنولوجيا في العصر الرقمي في عصرنا الرقمي الحديث، أصبحت التكنولوجيا جزءًا لا يتجزأ من حياتنا اليومية. من الهواتف الذكية إلى الخدمات الإلكترونية، تعتمد معظم مجالات الحياة على التكنولوجيا. إن تعلم المهارات التقنية، مثل البرمجة وتحليل البيانات والذكاء الاصطناعي، يمنح الأفراد فرصًا وظيفية أوسع ويعزز من قدرتهم على التكيف مع المستقبل."
+  },
+  "en": {
+    "language": "English",
+    "text": "The Importance of Learning Technology in the Digital Age In today’s fast-evolving digital era, technology plays a crucial role in our daily lives. From smartphones and online services to remote work and AI, everything is intertwined with tech. Learning technology not only boosts personal skills but also opens doors to better career opportunities. Skills like programming, data analysis, and AI are becoming essential for staying relevant in the job market."
+  },
+  "ja": {
+    "language": "Japanese (日本語)",
+    "text": "デジタル時代における技術学習の重要性 現代のデジタル時代では、技術は私たちの生活に欠かせない存在となっています。スマートフォン、インターネット、リモートワークなど、すべてがテクノロジーに依存しています。プログラミングやデータ分析、AIなどのスキルを学ぶことは、将来のキャリアを切り開く鍵であり、変化の激しい時代に対応するためにも不可欠です。"
+  }
+}
